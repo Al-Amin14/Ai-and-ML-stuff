@@ -1,0 +1,1265 @@
+{
+    "text": " Guys, in video number 12, I gave you guys an exercise and I told you guys to post your solution in this video I will tell you guys about this exercise and the people who have solved this exercise I will give you a shoutout to them all Let's go to the computer screen I am really very excited to see your solutions Let's roll the intro Music So guys, I have come to my computer screen and the first thing I will do is I will make a folder in the name of video 16 So I will write video 16 here and then I will open it and shift it right click open with code and after doing this, I will make a boilerplate template here Today we are going to do a little special work because today we will get a shoutout So first of all, if you haven't done the exercise, then do it Now I am going to open this video So I have opened this video in which I have given you guys an exercise and this exercise was about a pure HTML media play So I had told you guys how to make a media player and here I will buy a sword New West First and I will come down here and after coming down here, I will do what? I will shoutout to all the people who have solved this So guys, I have scrolled down I took a lot of time to scroll I will shoutout to all of you but before that, I want to solve this question So here you can see 1.mp3, 1.mp4, 2.mp3 all the way till 5.mp3 are with me So what I will do first? I will put one h1 My videos for the day Okay, I will write h1 here and here I will write some audios for the day Okay, my videos and audios for the day What I will do here is I will toggle the screencast mode because it looks a little easy and here I will put some videos So I have written h1 and here I have put h2 and here I will put videos in a dev So as soon as I write video tag and after that I will write controls So I will be able to watch this 1.mp4 So what I will do? I have pressed shift alt and down arrow and here I will write 2 and here I will write 3 and here I will write 4 and then here I will write 5 and I will do the same thing for audio as well and here I will write audio and here I will write 1.mp3 and after that I will write controls Okay, and after that I will do the same thing and I will replicate this 5 times I have done 2, I have done 3, I have done 4 and here I will do 5 and obviously I will preview this and try to show you Now here is a problem and the problem is that this is taking a lot of width and this is getting problematic maybe because I am zoomed in Okay, so it is not getting problematic otherwise we will reset this with CSS but for now I think we are good We will see in CSS how to resize it and improve the things but I think our videos are here and some audios for the DB are here so, can you see the audios? and you guys have put songs and all so songs and all will come I have not put songs and all you can see that my videos are playing Hey sir, give me something to eat and these are the same videos This is a memory, for sale people need it a lot and this is my personal favorite You guys have put your favorite videos but that was pretty much about it Many people are saying that this exercise is very easy this exercise was so simple we will raise the bar like anything Remember me, just remember what is left Now we will shout out 100-172 shout out Code with Rohit who accepted the challenge here multi-atmos, desi ready shantop, harsha, gularia then healtstar, kuhn, team rewa kulsum, sakeward then bobby01th, mohan prakash, arnav then jilan, nikhil, ashutosh and here I will shout out to those who have actually solved it and I will shout out to those who have solved it Have you solved it? even I will see the replies Have you solved it or not? Have you solved it or not? Have you not solved it yet? Have you solved it yet? No, not yet Not yet Okay, so Coder Anderson I have told you a lot you have won 7 crore rupees for the first time you have used the table which is fine and the thing is the idea of the tables is not used to do this kind of work but I think we are good once again and he has shown the videos till now he has given the width and height in this video which is a great thing actually I will do it too in my video in fact, what I will do is I will write width is equal to 239 let's see how it changes wow, it is looking actually better so why this idea is not in my mind when I was solving it Coder Anderson, I will shout out to you sorry, Coder Anderson, shout out to you now after this who has solved it SAF0981 he has also solved it very beautifully very good, very good then after this, Cesar Morty has also I have given a very big shout out and Jeeel Maheshwari has also been also shouted now here I would like to say one thing that many of you have not solved it and this was not actually the participation I was looking for, I wanted your participation I wanted everyone to solve it actually, very few people have solved it and here I want more people to solve it Saxham Jain has solved it, he also shouted out and I saw that very few people have solved it and here we do not have any other code so in the coming videos whatever challenges will come, I want everyone to solve it and whoever will solve it first I will shout out to him in the comments so you have to respond a little faster and whoever is taking the challenge accepted they are also getting shout out and hurt I hope you are enjoying this course all the source code and the playlists do access it, it is very popular playlists are still there a few days ago there were two videos one video was written by jeep but now actually I have failed and you guys should also be filled if you have not accessed the source code then do access it that's all for now thank you guys for watching this video and I will see you next time",
+    "chunks": [
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 0.0,
+            "end": 3.04,
+            "text": " Guys, in video number 12, I gave you guys an exercise"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 3.04,
+            "end": 7.5,
+            "text": " and I told you guys to post your solution in this video"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 7.5,
+            "end": 10.200000000000001,
+            "text": " I will tell you guys about this exercise"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 10.200000000000001,
+            "end": 12.700000000000001,
+            "text": " and the people who have solved this exercise"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 12.700000000000001,
+            "end": 14.5,
+            "text": " I will give you a shoutout to them all"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 14.5,
+            "end": 15.8,
+            "text": " Let's go to the computer screen"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 15.8,
+            "end": 18.3,
+            "text": " I am really very excited to see your solutions"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 18.3,
+            "end": 20.0,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 20.0,
+            "end": 28.6,
+            "text": " Music"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 28.6,
+            "end": 30.6,
+            "text": " So guys, I have come to my computer screen"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 30.6,
+            "end": 32.6,
+            "text": " and the first thing I will do is"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 32.6,
+            "end": 34.6,
+            "text": " I will make a folder in the name of video 16"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 34.6,
+            "end": 36.6,
+            "text": " So I will write video 16 here"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 36.6,
+            "end": 38.6,
+            "text": " and then I will open it and shift it right click"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 38.6,
+            "end": 39.6,
+            "text": " open with code"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 39.6,
+            "end": 42.8,
+            "text": " and after doing this, I will make a boilerplate template here"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 42.8,
+            "end": 45.6,
+            "text": " Today we are going to do a little special work"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 45.6,
+            "end": 47.6,
+            "text": " because today we will get a shoutout"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 47.6,
+            "end": 52.1,
+            "text": " So first of all, if you haven't done the exercise, then do it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 52.1,
+            "end": 54.6,
+            "text": " Now I am going to open this video"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 54.6,
+            "end": 57.6,
+            "text": " So I have opened this video in which I have given you guys an exercise"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 57.6,
+            "end": 62.1,
+            "text": " and this exercise was about a pure HTML media play"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 62.1,
+            "end": 64.6,
+            "text": " So I had told you guys how to make a media player"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 64.6,
+            "end": 66.6,
+            "text": " and here I will buy a sword"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 66.6,
+            "end": 67.6,
+            "text": " New West First"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 67.6,
+            "end": 70.1,
+            "text": " and I will come down here"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 70.1,
+            "end": 73.1,
+            "text": " and after coming down here, I will do what?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 73.1,
+            "end": 76.6,
+            "text": " I will shoutout to all the people who have solved this"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 76.6,
+            "end": 78.6,
+            "text": " So guys, I have scrolled down"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 78.6,
+            "end": 80.6,
+            "text": " I took a lot of time to scroll"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 80.6,
+            "end": 82.6,
+            "text": " I will shoutout to all of you"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 82.6,
+            "end": 85.6,
+            "text": " but before that, I want to solve this question"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 85.6,
+            "end": 88.6,
+            "text": " So here you can see 1.mp3, 1.mp4, 2.mp3"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 88.6,
+            "end": 90.6,
+            "text": " all the way till 5.mp3 are with me"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 90.6,
+            "end": 92.6,
+            "text": " So what I will do first?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 92.6,
+            "end": 93.6,
+            "text": " I will put one h1"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 93.6,
+            "end": 95.6,
+            "text": " My videos for the day"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 95.6,
+            "end": 97.6,
+            "text": " Okay, I will write h1 here"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 97.6,
+            "end": 103.6,
+            "text": " and here I will write some audios for the day"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 104.6,
+            "end": 108.6,
+            "text": " Okay, my videos and audios for the day"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 108.6,
+            "end": 110.6,
+            "text": " What I will do here is"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 110.6,
+            "end": 112.6,
+            "text": " I will toggle the screencast mode"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 112.6,
+            "end": 114.6,
+            "text": " because it looks a little easy"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 114.6,
+            "end": 117.6,
+            "text": " and here I will put some videos"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 117.6,
+            "end": 120.6,
+            "text": " So I have written h1"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 120.6,
+            "end": 122.6,
+            "text": " and here I have put h2"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 122.6,
+            "end": 125.6,
+            "text": " and here I will put videos in a dev"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 125.6,
+            "end": 127.6,
+            "text": " So as soon as I write video tag"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 127.6,
+            "end": 129.6,
+            "text": " and after that I will write controls"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 129.6,
+            "end": 134.6,
+            "text": " So I will be able to watch this 1.mp4"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 134.6,
+            "end": 136.6,
+            "text": " So what I will do?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 136.6,
+            "end": 138.6,
+            "text": " I have pressed shift alt and down arrow"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 138.6,
+            "end": 139.6,
+            "text": " and here I will write 2"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 139.6,
+            "end": 140.6,
+            "text": " and here I will write 3"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 140.6,
+            "end": 142.6,
+            "text": " and here I will write 4"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 142.6,
+            "end": 144.6,
+            "text": " and then here I will write 5"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 144.6,
+            "end": 146.6,
+            "text": " and I will do the same thing for audio as well"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 146.6,
+            "end": 148.6,
+            "text": " and here I will write audio"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 148.6,
+            "end": 150.6,
+            "text": " and here I will write 1.mp3"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 150.6,
+            "end": 152.6,
+            "text": " and after that I will write controls"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 152.6,
+            "end": 155.6,
+            "text": " Okay, and after that I will do the same thing"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 155.6,
+            "end": 158.6,
+            "text": " and I will replicate this 5 times"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 158.6,
+            "end": 161.6,
+            "text": " I have done 2, I have done 3, I have done 4"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 161.6,
+            "end": 163.6,
+            "text": " and here I will do 5"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 163.6,
+            "end": 165.6,
+            "text": " and obviously I will preview this"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 165.6,
+            "end": 167.6,
+            "text": " and try to show you"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 167.6,
+            "end": 169.6,
+            "text": " Now here is a problem"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 169.6,
+            "end": 172.6,
+            "text": " and the problem is that this is taking a lot of width"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 172.6,
+            "end": 174.6,
+            "text": " and this is getting problematic"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 174.6,
+            "end": 176.6,
+            "text": " maybe because I am zoomed in"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 176.6,
+            "end": 178.6,
+            "text": " Okay, so it is not getting problematic"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 178.6,
+            "end": 181.6,
+            "text": " otherwise we will reset this with CSS"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 181.6,
+            "end": 184.6,
+            "text": " but for now I think we are good"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 184.6,
+            "end": 187.6,
+            "text": " We will see in CSS how to resize it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 187.6,
+            "end": 189.6,
+            "text": " and improve the things"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 189.6,
+            "end": 191.6,
+            "text": " but I think our videos are here"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 191.6,
+            "end": 193.6,
+            "text": " and some audios for the DB are here"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 193.6,
+            "end": 195.6,
+            "text": " so, can you see the audios?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 197.6,
+            "end": 198.6,
+            "text": " and"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 198.6,
+            "end": 201.6,
+            "text": " you guys have put songs and all"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 201.6,
+            "end": 203.6,
+            "text": " so songs and all will come"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 203.6,
+            "end": 204.6,
+            "text": " I have not put songs and all"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 204.6,
+            "end": 206.6,
+            "text": " you can see that my videos are playing"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 206.6,
+            "end": 209.6,
+            "text": " Hey sir, give me something to eat"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 209.6,
+            "end": 210.6,
+            "text": " and"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 210.6,
+            "end": 211.6,
+            "text": " these are the same videos"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 211.6,
+            "end": 213.6,
+            "text": " This is a memory, for sale"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 213.6,
+            "end": 215.6,
+            "text": " people need it a lot"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 215.6,
+            "end": 217.6,
+            "text": " and this is my personal favorite"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 221.6,
+            "end": 223.6,
+            "text": " You guys have put your favorite videos"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 223.6,
+            "end": 225.6,
+            "text": " but that was pretty much about it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 225.6,
+            "end": 227.6,
+            "text": " Many people are saying that this exercise is very easy"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 227.6,
+            "end": 229.6,
+            "text": " this exercise was so simple"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 229.6,
+            "end": 230.6,
+            "text": " we will raise the bar like anything"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 230.6,
+            "end": 232.6,
+            "text": " Remember me, just remember"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 232.6,
+            "end": 233.6,
+            "text": " what is left"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 233.6,
+            "end": 234.6,
+            "text": " Now we will shout out"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 234.6,
+            "end": 236.6,
+            "text": " 100-172 shout out"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 236.6,
+            "end": 237.6,
+            "text": " Code with Rohit"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 237.6,
+            "end": 239.6,
+            "text": " who accepted the challenge"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 239.6,
+            "end": 242.6,
+            "text": " here multi-atmos, desi ready"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 242.6,
+            "end": 244.6,
+            "text": " shantop, harsha, gularia"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 244.6,
+            "end": 247.6,
+            "text": " then healtstar, kuhn, team rewa"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 247.6,
+            "end": 249.6,
+            "text": " kulsum, sakeward"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 249.6,
+            "end": 252.6,
+            "text": " then bobby01th, mohan"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 252.6,
+            "end": 255.6,
+            "text": " prakash, arnav"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 255.6,
+            "end": 261.6,
+            "text": " then jilan, nikhil, ashutosh"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 261.6,
+            "end": 264.6,
+            "text": " and here I will shout out to those"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 264.6,
+            "end": 266.6,
+            "text": " who have actually solved it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 266.6,
+            "end": 269.6,
+            "text": " and I will shout out to those who have solved it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 269.6,
+            "end": 271.6,
+            "text": " Have you solved it?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 271.6,
+            "end": 273.6,
+            "text": " even I will see the replies"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 273.6,
+            "end": 275.6,
+            "text": " Have you solved it or not?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 275.6,
+            "end": 277.6,
+            "text": " Have you solved it or not?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 277.6,
+            "end": 279.6,
+            "text": " Have you not solved it yet?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 279.6,
+            "end": 281.6,
+            "text": " Have you solved it yet?"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 281.6,
+            "end": 283.6,
+            "text": " No, not yet"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 283.6,
+            "end": 284.6,
+            "text": " Not yet"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 284.6,
+            "end": 286.6,
+            "text": " Okay, so Coder Anderson"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 286.6,
+            "end": 288.6,
+            "text": " I have told you a lot"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 288.6,
+            "end": 290.6,
+            "text": " you have won 7 crore rupees"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 290.6,
+            "end": 291.6,
+            "text": " for the first time"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 291.6,
+            "end": 293.6,
+            "text": " you have used the table which is fine"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 293.6,
+            "end": 295.6,
+            "text": " and the thing is"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 295.6,
+            "end": 297.6,
+            "text": " the idea of the tables is not used"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 297.6,
+            "end": 299.6,
+            "text": " to do this kind of work"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 299.6,
+            "end": 301.6,
+            "text": " but I think we are good"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 301.6,
+            "end": 302.6,
+            "text": " once again"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 302.6,
+            "end": 304.6,
+            "text": " and he has shown the videos till now"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 304.6,
+            "end": 306.6,
+            "text": " he has given the width and height in this video"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 306.6,
+            "end": 308.6,
+            "text": " which is a great thing actually"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 308.6,
+            "end": 312.6,
+            "text": " I will do it too in my video"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 312.6,
+            "end": 314.6,
+            "text": " in fact, what I will do is"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 314.6,
+            "end": 318.6,
+            "text": " I will write width is equal to 239"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 318.6,
+            "end": 319.6,
+            "text": " let's see how it changes"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 319.6,
+            "end": 321.6,
+            "text": " wow, it is looking actually better"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 321.6,
+            "end": 323.6,
+            "text": " so why this idea is not in my mind"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 323.6,
+            "end": 325.6,
+            "text": " when I was solving it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 325.6,
+            "end": 328.6,
+            "text": " Coder Anderson, I will shout out to you"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 328.6,
+            "end": 330.6,
+            "text": " sorry, Coder Anderson, shout out to you"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 330.6,
+            "end": 332.6,
+            "text": " now after this"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 332.6,
+            "end": 334.6,
+            "text": " who has solved it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 334.6,
+            "end": 336.6,
+            "text": " SAF0981"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 336.6,
+            "end": 338.6,
+            "text": " he has also solved it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 338.6,
+            "end": 340.6,
+            "text": " very beautifully"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 340.6,
+            "end": 342.6,
+            "text": " very good, very good"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 342.6,
+            "end": 344.6,
+            "text": " then after this, Cesar Morty has also"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 344.6,
+            "end": 346.6,
+            "text": " I have given a very big shout out"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 346.6,
+            "end": 348.6,
+            "text": " and Jeeel Maheshwari has also been also shouted"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 348.6,
+            "end": 350.6,
+            "text": " now here I would like to say one thing"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 350.6,
+            "end": 352.6,
+            "text": " that many of you have not solved it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 352.6,
+            "end": 354.6,
+            "text": " and this was not actually the participation"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 354.6,
+            "end": 356.6,
+            "text": " I was looking for, I wanted your participation"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 356.6,
+            "end": 358.6,
+            "text": " I wanted everyone to solve it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 358.6,
+            "end": 360.6,
+            "text": " actually, very few people have solved it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 360.6,
+            "end": 364.6,
+            "text": " and here I want more people to solve it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 364.6,
+            "end": 366.6,
+            "text": " Saxham Jain has solved it, he also shouted out"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 366.6,
+            "end": 370.6,
+            "text": " and I saw that very few people have solved it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 370.6,
+            "end": 373.6,
+            "text": " and here we do not have any other code"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 373.6,
+            "end": 375.6,
+            "text": " so in the coming videos"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 375.6,
+            "end": 378.6,
+            "text": " whatever challenges will come, I want everyone to solve it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 378.6,
+            "end": 380.6,
+            "text": " and whoever will solve it first"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 380.6,
+            "end": 382.6,
+            "text": " I will shout out to him in the comments"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 382.6,
+            "end": 384.6,
+            "text": " so you have to respond a little faster"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 384.6,
+            "end": 386.6,
+            "text": " and whoever is taking the challenge accepted"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 386.6,
+            "end": 388.6,
+            "text": " they are also getting shout out and hurt"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 388.6,
+            "end": 390.6,
+            "text": " I hope you are enjoying this course"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 390.6,
+            "end": 392.6,
+            "text": " all the source code"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 392.6,
+            "end": 394.6,
+            "text": " and the playlists"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 394.6,
+            "end": 396.6,
+            "text": " do access it, it is very popular"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 396.6,
+            "end": 398.6,
+            "text": " playlists are still there"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 398.6,
+            "end": 400.6,
+            "text": " a few days ago there were two videos"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 400.6,
+            "end": 402.6,
+            "text": " one video was written by jeep"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 402.6,
+            "end": 404.6,
+            "text": " but now actually I have failed"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 404.6,
+            "end": 406.6,
+            "text": " and you guys should also be filled"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 406.6,
+            "end": 408.6,
+            "text": " if you have not accessed the source code"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 408.6,
+            "end": 410.6,
+            "text": " then do access it"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 410.6,
+            "end": 412.6,
+            "text": " that's all for now"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 412.6,
+            "end": 414.6,
+            "text": " thank you guys for watching this video"
+        },
+        {
+            "number": "16",
+            "title": "Exercise 1 - Solution & Shoutouts",
+            "start": 414.6,
+            "end": 416.6,
+            "text": " and I will see you next time"
+        }
+    ]
+}
